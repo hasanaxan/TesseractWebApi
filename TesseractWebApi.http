@@ -1,0 +1,6 @@
+@TesseractWebApi_HostAddress = http://localhost:5000
+
+GET {{TesseractWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
